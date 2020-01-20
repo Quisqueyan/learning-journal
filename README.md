@@ -6,3 +6,5 @@ I believe a *growth mindset* is having the knowledge that everyone is an apprent
 * No one was born knowing how to ride a bicycle.
 * Knowing that you failed builds confidence when you succeed.
 * when you see someone succeed, it does not mean there were no failures.
+#### examples
+* My [markdown] (https://quisqueyan.github.io/learning-journal/markdown) page has some examples of things i learned through trial an error
