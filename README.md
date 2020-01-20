@@ -3,6 +3,6 @@ My name is Stanley and this is my first page on **GITHUB** and i want to discuss
 ## growth mindset
 I believe a *growth mindset* is having the knowledge that everyone is an apprentice to new tasks and that the master is the one that has attempted and learned the most from all he's failures.
 ### Reminders
--No one was born knowing how to ride a bicycle.
--Knowing that you failed builds confidence when you succeed
--when you see someone succeed, it does not mean there were no failures.
+- No one was born knowing how to ride a bicycle.
+- Knowing that you failed builds confidence when you succeed
+- when you see someone succeed, it does not mean there were no failures.
