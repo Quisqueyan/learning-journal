@@ -9,4 +9,4 @@ I believe a *growth mindset* is having the knowledge that everyone is an apprent
 #### examples
 * My [markdown](https://quisqueyan.github.io/learning-journal/markdown) page has some examples of things i learned through trial an error.
 
-*[Stanley Sanchez](https://github.com/Quisqueyan/learning-journal/edit/master/README.md).
+*[Stanley Sanchez]*(https://github.com/Quisqueyan/learning-journal/edit/master/README.md).
