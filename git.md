@@ -23,3 +23,14 @@ Is a colabotarion tool that keeps all of your files in one repository.
  * allows several team members to work together on the same file.
  * keeps a history of each file overtime.
  * you can work on your computer and upload at a later time.
+
+# Git flow
+## ACD
+### add commit push
+
+Commands | Results
+---------|--------
+Git status | tell you status of yout git
+Git Add | Keeps track of you changes on your file
+git commit -m " "| commits changes 
+git push origen master | sinc's with the cloud
