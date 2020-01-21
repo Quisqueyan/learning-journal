@@ -11,7 +11,7 @@ Though Markdown I have learned some basic features of how to build a web page in
 
 2. ~~you can also strike trough pages~~
 
-2. This link takes you to my [README PAGE](https://quisqueyan.github.io/learning-journal/), I have also used Markdown to bild that. 
+2. I have also used Markdown to bild my [README PAGE](https://quisqueyan.github.io/learning-journal/). 
 
 
 
