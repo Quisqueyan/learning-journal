@@ -34,3 +34,6 @@ Git status | tell you status of yout git
 Git Add | Keeps track of you changes on your file
 git commit -m " "| commits changes 
 git push origen master | sinc's with the cloud
+git fetch | check status of cloud
+git pull | updates computer from cloud
+
