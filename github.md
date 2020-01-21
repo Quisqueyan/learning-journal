@@ -1,8 +1,6 @@
-github.md
 # GitHub
-is a colaboration tool that keeps all of your files in one repository than has several advantages.
+is a collaboration tool that keeps all of your files in one repository than has several advantages.
 1. it is a repository.
-2. Keeps a history of changes.
 3. Allows multiple developers to work on the same code
 4. great back up feature.
 
@@ -14,7 +12,7 @@ is a colaboration tool that keeps all of your files in one repository than has s
 * Keeps track of your current location or head.
 
 # Git + GitHub
-* Allows several team memebers to work on the same file.
+* Allows several team members to work on the same file.
 * you can use git to work on your computer and later upload to Github and share.
 
 # Git flow
@@ -24,7 +22,7 @@ is a colaboration tool that keeps all of your files in one repository than has s
  Commit 
  Push
 
- ### helpful commands to remeber
+ ### helpful commands to remember
  Commands | Results
  ---------|---------
  git status | Gives status
