@@ -32,3 +32,8 @@ is a collaboration tool that keeps all of your files in one repository than has 
  git fetch | checks status of GitHub repository
  git pull | Updates local Git from GitHub
  git add . | will save changes to multiple files
+
+
+
+ [Home](https://quisqueyan.github.io/learning-journal/) | [Github basics](https://quisqueyan.github.io/learning-journal/github) | [MarkDown basics](https://quisqueyan.github.io/learning-journal/markdown)
+S

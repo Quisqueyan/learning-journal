@@ -13,5 +13,6 @@ Though Markdown I have learned some basic features of how to build a web page in
 
 2. I have also used Markdown to bild my [README](https://quisqueyan.github.io/learning-journal/) page. 
 
+[Home](https://quisqueyan.github.io/learning-journal/) | [Github basics](https://quisqueyan.github.io/learning-journal/github) | [MarkDown basics](https://quisqueyan.github.io/learning-journal/markdown)
 
 
