@@ -31,3 +31,4 @@ is a collaboration tool that keeps all of your files in one repository than has 
  git push origin master | sincs local Git with GitHub
  git fetch | checks status of GitHub repository
  git pull | Updates local Git from GitHub
+ git add . | will save changes to multiple files

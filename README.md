@@ -1,5 +1,6 @@
 # Learning-Journal
-My name is Stanley and this is my first page on **GITHUB** and i want to discuss the growth mindset.
+Welcome to my page.
+I'm Stanley and im trying to lear the basics of coding. this is my first page and i built it using Git and GitHub for my repository.
 ## growth mindset
 I believe a *growth mindset* is having the knowledge that everyone is an apprentice to new tasks and that the master is the one that has attempted and learned the most from all he's failures.
 ### Reminders
@@ -7,8 +8,6 @@ I believe a *growth mindset* is having the knowledge that everyone is an apprent
 * Knowing that you failed builds confidence when you succeed.
 * when you see someone succeed, it does not mean there were no failures.
 ### Directory
-[Home](https://quisqueyan.github.io/learning-journal/) | [Github basics](https://quisqueyan.github.io/learning-journal/github) | [MarkDown basics](https://quisqueyan.github.io/learning-journal/markdown) | 
-
-* My [markdown](https://quisqueyan.github.io/learning-journal/markdown) page has some examples of things i learned through trial an error.
+[Home](https://quisqueyan.github.io/learning-journal/) | [Github basics](https://quisqueyan.github.io/learning-journal/github) | [MarkDown basics](https://quisqueyan.github.io/learning-journal/markdown)
 
 [*Stanley Sanchez*](https://github.com/Quisqueyan).
