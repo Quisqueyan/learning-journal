@@ -1,7 +1,0 @@
-# The Coder's Computer
-## Choosing a text editor
->During this lesson, I learned a vast amount of information about the capabilities of a text editor. That previous statement is not saying much since my experience with text editors before today was minimal; I'm talking Notepad++. I believe the key take away from this lesson was that a text editor does not have to be a simple program that sits an waits for you to build your masterpiece. A text editor can be an interactive partner that makes suggestions to what may be wrong with your code, which helps you stay organized and even tries to predict some of what you're doing and completes your code.
-
-## Command Line
->The Command-Line is a textbase interface that is entirely different from the *GUI* but achieves the same results. It is not a visual interface and requires the user to learn the command, and after initial learning, the curb can help expedite the coding experience.
-
