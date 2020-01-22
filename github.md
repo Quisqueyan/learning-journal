@@ -35,4 +35,4 @@ is a collaboration tool that keeps all of your files in one repository than has 
 
 
 ### Directory
-[Home](https://quisqueyan.github.io/learning-journal/) | [Github basics](https://quisqueyan.github.io/learning-journal/github) | [MarkDown basics](https://quisqueyan.github.io/learning-journal/markdown) | [HTML](https://github.com/Quisqueyan/learning-journal/blob/master/html.md)
+[Home](https://quisqueyan.github.io/learning-journal/) | [Github basics](https://quisqueyan.github.io/learning-journal/github) | [MarkDown basics](https://quisqueyan.github.io/learning-journal/markdown) | [HTML](https://quisqueyan.github.io/learning-journal/html)
