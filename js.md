@@ -8,20 +8,20 @@ it can use varibles to true and false satements to help the user interact with a
 when a broser comes across a <script> element it stops to load the script and then checks if it needs to do anything.
 #### script
 	a script is a series of instructions (*statements*) that a computer can follow one by one.
-	##### Code block
+##### Code block
 		code blocks are started and ended by curly braces **each coad block can contain many statements**
-	##### Statements
+##### Statements
 		each individual instruction in a script is know as a *Statement* 
 		* statements end with semicolon
 		* each statement should start on a new line
-	##### Comments
+##### Comments
 		Writting comments in Javascript to make code easier to read single line comment 
 		* // single line comment 
 		* /* multy line commentcomments goes in here */
 
 ### Variables
 	using a variable on Javascript you must declare it then add a name followed by assignment operator and give it a value
-	#### rules for variables
+#### rules for variables
 		* must begin with *letter* *Dollar sign* or *underscore*.
 		* name can contain *letter* *Dollar sign* or *underscore*.
 		* cannot use Key like *var* words or reserved words.
